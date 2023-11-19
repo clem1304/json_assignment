@@ -7,21 +7,21 @@
       "Status": "Available"
     },
     {
-        "id": "1",
+        "id": "2",
         "vehicle_id": "PY2",
         "vehicle_name": "Indigo",
         "vehicle_type": "Car",
         "Status": "Available"
     },
     {
-        "id": "1",
+        "id": "3",
         "vehicle_id": "PY3",
         "vehicle_name": "Tempo Traveller",
         "vehicle_type": "Van",
         "Status": "Booked"
     },
     {
-        "id": "1",
+        "id": "4",
         "vehicle_id": "PY4",
         "vehicle_name": "SUV",
         "vehicle_type": "Car",
